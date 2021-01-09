@@ -1,10 +1,8 @@
 # Morse Code Communicator [IoT-Challenge-02]
 This application allows a microbit to send encrypted Morse code to a microbit that is connected to it.
+Morse code communicator was created as a submission for Challenge 02 of the module Internet of Things from the degree I am currently pursuing.
 
-**Author Information** \
-**Name:** Aishath Nahidha \
-**Student ID:** S1900136 \
-**Program:** Bsc Computer Science (January 2019)
+
 ## Installation
 Morse Code Communicator was created using the [micro:bit runtime](https://lancaster-university.github.io/microbit-docs/) developed by Lancaster University. 
 To run the application on your microbit,
